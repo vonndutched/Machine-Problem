@@ -1,0 +1,29 @@
+d:\daryl\documents\visual studio 2015\Projects\MP2\MP2\bin\Debug\MP2.exe.config
+d:\daryl\documents\visual studio 2015\Projects\MP2\MP2\bin\Debug\MP2.exe
+d:\daryl\documents\visual studio 2015\Projects\MP2\MP2\bin\Debug\MP2.pdb
+d:\daryl\documents\visual studio 2015\Projects\MP2\MP2\obj\Debug\MP2.csprojResolveAssemblyReference.cache
+d:\daryl\documents\visual studio 2015\Projects\MP2\MP2\obj\Debug\MP2.Form1.resources
+d:\daryl\documents\visual studio 2015\Projects\MP2\MP2\obj\Debug\MP2.Properties.Resources.resources
+d:\daryl\documents\visual studio 2015\Projects\MP2\MP2\obj\Debug\MP2.csproj.GenerateResource.Cache
+d:\daryl\documents\visual studio 2015\Projects\MP2\MP2\obj\Debug\MP2.exe
+d:\daryl\documents\visual studio 2015\Projects\MP2\MP2\obj\Debug\MP2.pdb
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 2\MP2\MP2\bin\Debug\MP2.exe.config
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 2\MP2\MP2\obj\Debug\MP2.exe
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 2\MP2\MP2\obj\Debug\MP2.pdb
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 2\MP2\MP2\bin\Debug\MP2.exe
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 2\MP2\MP2\bin\Debug\MP2.pdb
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 2\MP2\MP2\obj\Debug\MP2.csprojResolveAssemblyReference.cache
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 2\MP2\MP2\obj\Debug\MP2.Form1.resources
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 2\MP2\MP2\obj\Debug\MP2.Properties.Resources.resources
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 2\MP2\MP2\obj\Debug\MP2.csproj.GenerateResource.Cache
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\bin\Debug\MP2.exe.config
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\bin\Debug\MP2.exe
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\bin\Debug\MP2.pdb
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\obj\Debug\MP2.csprojResolveAssemblyReference.cache
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\obj\Debug\MP2.Form1.resources
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\obj\Debug\MP2.Properties.Resources.resources
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\obj\Debug\MP2.csproj.GenerateResource.cache
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\obj\Debug\MP2.csproj.CoreCompileInputs.cache
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\obj\Debug\MP2.csproj.CopyComplete
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\obj\Debug\MP2.exe
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 2\MP2\MP2\obj\Debug\MP2.pdb

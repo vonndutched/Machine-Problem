@@ -1,0 +1,29 @@
+d:\daryl\documents\visual studio 2015\Projects\MP4\MP4\bin\Debug\MP4.exe.config
+D:\Daryl\Documents\Visual Studio 2015\Projects\MP4\MP4\bin\Debug\MP4.exe
+D:\Daryl\Documents\Visual Studio 2015\Projects\MP4\MP4\bin\Debug\MP4.pdb
+D:\Daryl\Documents\Visual Studio 2015\Projects\MP4\MP4\obj\Debug\MP4.csprojResolveAssemblyReference.cache
+D:\Daryl\Documents\Visual Studio 2015\Projects\MP4\MP4\obj\Debug\MP4.Form1.resources
+D:\Daryl\Documents\Visual Studio 2015\Projects\MP4\MP4\obj\Debug\MP4.Properties.Resources.resources
+D:\Daryl\Documents\Visual Studio 2015\Projects\MP4\MP4\obj\Debug\MP4.csproj.GenerateResource.Cache
+D:\Daryl\Documents\Visual Studio 2015\Projects\MP4\MP4\obj\Debug\MP4.exe
+D:\Daryl\Documents\Visual Studio 2015\Projects\MP4\MP4\obj\Debug\MP4.pdb
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 4\MP4\MP4\bin\Debug\MP4.exe.config
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 4\MP4\MP4\obj\Debug\MP4.exe
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 4\MP4\MP4\obj\Debug\MP4.pdb
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 4\MP4\MP4\obj\Debug\MP4.csprojResolveAssemblyReference.cache
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 4\MP4\MP4\obj\Debug\MP4.Form1.resources
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 4\MP4\MP4\obj\Debug\MP4.Properties.Resources.resources
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 4\MP4\MP4\obj\Debug\MP4.csproj.GenerateResource.Cache
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 4\MP4\MP4\bin\Debug\MP4.exe
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 4\MP4\MP4\bin\Debug\MP4.pdb
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\bin\Debug\MP4.exe.config
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\bin\Debug\MP4.exe
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\bin\Debug\MP4.pdb
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\obj\Debug\MP4.csprojResolveAssemblyReference.cache
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\obj\Debug\MP4.Form1.resources
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\obj\Debug\MP4.Properties.Resources.resources
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\obj\Debug\MP4.csproj.GenerateResource.cache
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\obj\Debug\MP4.csproj.CoreCompileInputs.cache
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\obj\Debug\MP4.csproj.CopyComplete
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\obj\Debug\MP4.exe
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 4\MP4\MP4\obj\Debug\MP4.pdb

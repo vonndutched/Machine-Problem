@@ -1,0 +1,23 @@
+d:\daryl\documents\visual studio 2015\Projects\MP3\MP3\bin\Debug\MP3.exe.config
+d:\daryl\documents\visual studio 2015\Projects\MP3\MP3\bin\Debug\MP3.exe
+d:\daryl\documents\visual studio 2015\Projects\MP3\MP3\bin\Debug\MP3.pdb
+d:\daryl\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.csprojResolveAssemblyReference.cache
+d:\daryl\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.Form1.resources
+d:\daryl\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.Properties.Resources.resources
+d:\daryl\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.csproj.GenerateResource.Cache
+d:\daryl\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.exe
+d:\daryl\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.pdb
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 3\MP3\MP3\bin\Debug\MP3.exe.config
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 3\MP3\MP3\obj\Debug\MP3.exe
+D:\Daryl\Documents\Visual Studio 2015\Projects\Machine Problem 3\MP3\MP3\obj\Debug\MP3.pdb
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\bin\Debug\MP3.exe.config
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\bin\Debug\MP3.exe
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\bin\Debug\MP3.pdb
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\obj\Debug\MP3.csprojResolveAssemblyReference.cache
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\obj\Debug\MP3.Form1.resources
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\obj\Debug\MP3.Properties.Resources.resources
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\obj\Debug\MP3.csproj.GenerateResource.cache
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\obj\Debug\MP3.csproj.CoreCompileInputs.cache
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\obj\Debug\MP3.csproj.CopyComplete
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\obj\Debug\MP3.exe
+C:\Users\VonErrol\Desktop\Olpindo COE60 Project\Machine Problem 3\MP3\MP3\obj\Debug\MP3.pdb
